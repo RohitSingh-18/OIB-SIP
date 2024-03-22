@@ -26,10 +26,3 @@
 - VS code,Heruko
 - React Icons,REST APIS ,JWT ,GoogleAPIs,Yup
 
-## 📸 Screenshots
-
-## Home Page
-
-<img src="./frontend/src/assests/mern-food-delivery-app.herokuapp.com_.png" width='800' height='auto'>
-<br>
-
